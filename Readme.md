@@ -16,11 +16,12 @@ The dataset consists of EM-simulated PCB-based power delivery network samples. T
 
 Each sample contains:
 
-Geometry parameters
-Material parameters
-Frequency-dependent impedance response
-Touchstone-based Z-parameter data
-Main focus on self-impedance Z11
+- Geometry parameters
+- Material parameters
+- Frequency-dependent impedance response
+- Touchstone-based Z-parameter data
+
+Main focus on self-impedance Z11.
 
 The final selected impedance representation is:
 
