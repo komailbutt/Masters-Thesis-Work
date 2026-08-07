@@ -19,7 +19,7 @@ Each sample contains:
 - Geometry parameters & Material parameters.
 - Touchstone-based Z-parameter data.
 
-Main focus on self-impedance Z11.
+The main focus is on self-impedance Z11 in this work.
 
 The final selected impedance representation is:
 
