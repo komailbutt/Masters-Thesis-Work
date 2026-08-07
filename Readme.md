@@ -12,7 +12,7 @@ My work investigates whether machine learning models can learn compact represent
 
 ### Data Description
 
-The dataset consists of EM-simulated PCB-based power delivery network samples.
+The dataset consists of EM-simulated PCB-based power delivery network samples. The dataset can be requested at https://www.tet.tuhh.de/en/si-pi-database/
 
 Each sample contains:
 
